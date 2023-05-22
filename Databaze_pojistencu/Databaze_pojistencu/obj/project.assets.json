@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Uniagra\\source\\repos\\Databaze_pojistencu\\Databaze_pojistencu\\Databaze_pojistencu.csproj",
+      "projectUniqueName": "C:\\Users\\Uniagra\\source\\git_saleny\\Databaze_pojistencu\\Databaze_pojistencu\\Databaze_pojistencu.csproj",
       "projectName": "Databaze_pojistencu",
-      "projectPath": "C:\\Users\\Uniagra\\source\\repos\\Databaze_pojistencu\\Databaze_pojistencu\\Databaze_pojistencu.csproj",
+      "projectPath": "C:\\Users\\Uniagra\\source\\git_saleny\\Databaze_pojistencu\\Databaze_pojistencu\\Databaze_pojistencu.csproj",
       "packagesPath": "C:\\Users\\Uniagra\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Uniagra\\source\\repos\\Databaze_pojistencu\\Databaze_pojistencu\\obj\\",
+      "outputPath": "C:\\Users\\Uniagra\\source\\git_saleny\\Databaze_pojistencu\\Databaze_pojistencu\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Uniagra\\AppData\\Roaming\\NuGet\\NuGet.Config",
