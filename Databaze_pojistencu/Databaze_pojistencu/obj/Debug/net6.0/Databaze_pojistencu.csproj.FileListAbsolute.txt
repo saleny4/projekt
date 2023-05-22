@@ -1,0 +1,15 @@
+C:\Users\Uniagra\source\repos\Databaze_pojistencu\Databaze_pojistencu\bin\Debug\net6.0\Databaze_pojistencu.exe
+C:\Users\Uniagra\source\repos\Databaze_pojistencu\Databaze_pojistencu\bin\Debug\net6.0\Databaze_pojistencu.deps.json
+C:\Users\Uniagra\source\repos\Databaze_pojistencu\Databaze_pojistencu\bin\Debug\net6.0\Databaze_pojistencu.runtimeconfig.json
+C:\Users\Uniagra\source\repos\Databaze_pojistencu\Databaze_pojistencu\bin\Debug\net6.0\Databaze_pojistencu.dll
+C:\Users\Uniagra\source\repos\Databaze_pojistencu\Databaze_pojistencu\bin\Debug\net6.0\Databaze_pojistencu.pdb
+C:\Users\Uniagra\source\repos\Databaze_pojistencu\Databaze_pojistencu\obj\Debug\net6.0\Databaze_pojistencu.csproj.AssemblyReference.cache
+C:\Users\Uniagra\source\repos\Databaze_pojistencu\Databaze_pojistencu\obj\Debug\net6.0\Databaze_pojistencu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Uniagra\source\repos\Databaze_pojistencu\Databaze_pojistencu\obj\Debug\net6.0\Databaze_pojistencu.AssemblyInfoInputs.cache
+C:\Users\Uniagra\source\repos\Databaze_pojistencu\Databaze_pojistencu\obj\Debug\net6.0\Databaze_pojistencu.AssemblyInfo.cs
+C:\Users\Uniagra\source\repos\Databaze_pojistencu\Databaze_pojistencu\obj\Debug\net6.0\Databaze_pojistencu.csproj.CoreCompileInputs.cache
+C:\Users\Uniagra\source\repos\Databaze_pojistencu\Databaze_pojistencu\obj\Debug\net6.0\Databaze_pojistencu.dll
+C:\Users\Uniagra\source\repos\Databaze_pojistencu\Databaze_pojistencu\obj\Debug\net6.0\refint\Databaze_pojistencu.dll
+C:\Users\Uniagra\source\repos\Databaze_pojistencu\Databaze_pojistencu\obj\Debug\net6.0\Databaze_pojistencu.pdb
+C:\Users\Uniagra\source\repos\Databaze_pojistencu\Databaze_pojistencu\obj\Debug\net6.0\Databaze_pojistencu.genruntimeconfig.cache
+C:\Users\Uniagra\source\repos\Databaze_pojistencu\Databaze_pojistencu\obj\Debug\net6.0\ref\Databaze_pojistencu.dll
